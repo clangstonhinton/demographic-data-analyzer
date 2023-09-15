@@ -1,7 +1,6 @@
 # demographic-data-analyzer
 
-![Picture1](https://github.com/clangstonhinton/demographic-data-analyzer/assets/44728723/4f963aa5-684d-4490-bda2-8a9f20fcfd69)
-
+![Picture2](https://github.com/clangstonhinton/demographic-data-analyzer/assets/44728723/0ff85791-ef2f-4545-b8a8-bccd5487a5cf)
 
 This challenge is 1 of 5 project requirements of freeCodeCamp's Data Analysis with Python certification. Below are the project instructions. Full details can be found on freeCodeCamp [here](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer).
 
