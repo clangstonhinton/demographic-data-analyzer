@@ -1,5 +1,6 @@
 # demographic-data-analyzer
 
+This challenge project is 1 of 5 project requirements of freeCodeCamp's Data Analysis with Python certification. Below are the project instructions. Full details can also be found on freeCodeCamp here.
 
 Demographic Data Analyzer
 You will be working on this project with our Replit starter code.
