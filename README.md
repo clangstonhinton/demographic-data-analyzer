@@ -5,7 +5,7 @@
 This challenge is 1 of 5 project requirements of freeCodeCamp's Data Analysis with Python certification. Below are the project instructions. Full details can be found on freeCodeCamp [here](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer).
 
 ### project purpose & data description
-In this challenge you must analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database. Here is a sample of what the data looks like:
+The challenge is to analyze demographic data using Pandas, given a dataset of demographic data that was extracted from the 1994 Census database. Here is a sample of what the data looks like:
 
 |    |   age | workclass        |   fnlwgt | education   |   education-num | marital-status     | occupation        | relationship   | race   | sex    |   capital-gain |   capital-loss |   hours-per-week | native-country   | salary   |
 |---:|------:|:-----------------|---------:|:------------|----------------:|:-------------------|:------------------|:---------------|:-------|:-------|---------------:|---------------:|-----------------:|:-----------------|:---------|
@@ -16,7 +16,7 @@ In this challenge you must analyze demographic data using Pandas. You are given 
 |  4 |    28 | Private          |   338409 | Bachelors   |              13 | Married-civ-spouse | Prof-specialty    | Wife           | Black  | Female |              0 |              0 |               40 | Cuba             | <=50K    |
 
 ### data analysis & questions to answer
-You must use Pandas to answer the following questions:
+Using Pandas, answer the following questions:
   - How many people of each race are represented in this dataset? This should be a Pandas series with race names as the index labels. (race column)
   - What is the average age of men?
   - What is the percentage of people who have a Bachelor's degree?
