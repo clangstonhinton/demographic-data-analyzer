@@ -1,6 +1,7 @@
 # demographic-data-analyzer
 
 This challenge is 1 of 5 project requirements of freeCodeCamp's Data Analysis with Python certification. Below are the project instructions. Full details can be found on freeCodeCamp [here](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer).
+<img width="1225" alt="Screen Shot 2023-09-15 at 5 45 10 AM" src="https://github.com/clangstonhinton/demographic-data-analyzer/assets/44728723/05a94dcf-0550-4181-b31a-cf97c6fe5397">
 
 ### project purpose & data description
 In this challenge you must analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database. Here is a sample of what the data looks like:
