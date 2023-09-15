@@ -1,6 +1,7 @@
 # demographic-data-analyzer
 
-<img width="1225" alt="Screen Shot 2023-09-15 at 5 45 10 AM" src="https://github.com/clangstonhinton/demographic-data-analyzer/assets/44728723/05a94dcf-0550-4181-b31a-cf97c6fe5397">
+![Picture1](https://github.com/clangstonhinton/demographic-data-analyzer/assets/44728723/4f963aa5-684d-4490-bda2-8a9f20fcfd69)
+
 
 This challenge is 1 of 5 project requirements of freeCodeCamp's Data Analysis with Python certification. Below are the project instructions. Full details can be found on freeCodeCamp [here](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer).
 
