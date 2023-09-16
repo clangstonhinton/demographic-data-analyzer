@@ -28,6 +28,9 @@ Using Pandas, answer the following questions:
   - Identify the most popular occupation for those who earn >50K in India.
   - Use the starter code in the file demographic_data_analyzer. Update the code so all variables set to "None" are set to the appropriate calculation or code. Round all decimals to the nearest tenth.
 
+### results
+<img width="664" alt="Screen Shot 2023-09-15 at 11 04 22 PM" src="https://github.com/clangstonhinton/demographic-data-analyzer/assets/44728723/14b610f4-aae2-4bd9-9a82-a3376b33cb5f">
+
 ### data source
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository. Irvine, CA: University of California, School of Information and Computer Science.
 
